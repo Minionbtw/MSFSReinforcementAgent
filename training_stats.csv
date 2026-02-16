@@ -1,0 +1,606 @@
+Epoch;Status;Reason;AvgHdgErr;MaxSpd;MaxAlt;Epsilon
+0;[FAILED];Stagnation (No speed increase);7.98;201.2;10;0.8859
+1;[FAILED];Course lost (Heading);3.82;166.6;369;0.8734
+2;[FAILED];Course lost (Heading);12.86;100.0;13;0.8669
+3;[FAILED];Stagnation (No speed increase);11.54;100.6;11;0.8605
+4;[FAILED];Stagnation (No speed increase);5.19;153.0;9;0.8512
+5;[FAILED];Course lost (Heading);16.49;129.1;9;0.8440
+6;[FAILED];Stagnation (No speed increase);3.83;156.4;9;0.8345
+7;[FAILED];Stagnation (No speed increase);3.30;201.3;10;0.8210
+8;[FAILED];Stagnation (No speed increase);5.55;200.8;10;0.8076
+9;[FAILED];Timeout;7.69;201.8;9;0.7941
+10;[FAILED];Stagnation (No speed increase);9.12;145.7;9;0.7872
+11;[FAILED];Course lost (Heading);12.13;148.5;9;0.7794
+12;[FAILED];Course lost (Heading);5.87;152.0;9;0.7707
+13;[FAILED];Course lost (Heading);16.41;98.1;9;0.7653
+14;[FAILED];Stagnation (No speed increase);10.74;200.3;9;0.7537
+15;[FAILED];Stagnation (No speed increase);4.93;159.5;9;0.7452
+16;[FAILED];Course lost (Heading);8.87;67.8;9;0.7412
+17;[FAILED];Course lost (Heading);17.90;4.9;9;0.7316
+18;[FAILED];Course lost (Heading);10.65;83.1;9;0.7271
+19;[FAILED];Stagnation (No speed increase);18.75;0.2;9;0.7183
+20;[FAILED];Stagnation (No speed increase);3.60;128.8;9;0.7130
+21;[FAILED];Crashed / Too low;0.00;0.0;0;0.7127
+22;[FAILED];Course lost (Heading);9.29;31.3;9;0.7101
+23;[FAILED];Course lost (Heading);6.27;191.3;335;0.6989
+24;[FAILED];Course lost (Heading);8.16;59.3;9;0.6956
+25;[FAILED];Course lost (Heading);9.67;51.2;9;0.6926
+26;[FAILED];Timeout;11.21;191.6;11;0.6810
+27;[FAILED];Timeout;9.67;194.5;298;0.6697
+28;[FAILED];Course lost (Heading);12.45;190.3;9;0.6607
+29;[FAILED];Course lost (Heading);12.67;163.5;117;0.6523
+30;[FAILED];Timeout;16.69;187.7;291;0.6415
+31;[FAILED];Runway Excursion (18.0m);3.58;67.5;9;0.6381
+32;[FAILED];Runway Excursion (18.4m);4.22;54.1;9;0.7801
+33;[FAILED];Runway Excursion (18.1m);2.88;74.5;9;0.7758
+34;[FAILED];Runway Excursion (18.4m);3.92;58.7;9;0.7721
+35;[FAILED];Runway Excursion (18.4m);3.09;69.0;9;0.7682
+36;[FAILED];Runway Excursion (18.1m);3.38;69.3;9;0.7639
+37;[FAILED];Runway Excursion (18.2m);3.32;65.4;9;0.7602
+38;[FAILED];Runway Excursion (18.3m);3.23;85.3;9;0.7556
+39;[FAILED];Runway Excursion (18.2m);3.30;63.6;9;0.7517
+40;[FAILED];Runway Excursion (18.3m);5.56;49.9;9;0.7484
+41;[FAILED];Runway Excursion (18.1m);3.69;65.5;9;0.7446
+42;[FAILED];Runway Excursion (18.2m);5.11;48.1;9;0.7414
+43;[FAILED];Runway Excursion (18.2m);3.81;62.4;9;0.7375
+44;[FAILED];Runway Excursion (18.1m);4.06;54.7;9;0.7341
+45;[FAILED];Runway Excursion (18.1m);4.83;51.3;9;0.7309
+46;[FAILED];Runway Excursion (18.1m);5.11;49.6;9;0.7278
+47;[FAILED];Runway Excursion (18.6m);4.51;51.7;9;0.7244
+48;[FAILED];Runway Excursion (18.2m);3.62;58.8;9;0.7209
+49;[FAILED];Runway Excursion (18.4m);4.96;47.8;9;0.7177
+50;[FAILED];Course lost (Heading);22.88;142.6;9;0.7119
+51;[FAILED];Runway Excursion (18.7m);5.10;47.7;9;0.7087
+52;[FAILED];Runway Excursion (18.3m);3.31;64.5;9;0.7049
+53;[FAILED];Runway Excursion (18.4m);4.57;56.3;9;0.7016
+54;[FAILED];Runway Excursion (18.4m);4.26;56.1;9;0.6984
+55;[FAILED];Runway Excursion (18.6m);2.98;71.8;9;0.4717
+56;[FAILED];Runway Excursion (18.4m);4.98;53.3;9;0.4664
+57;[FAILED];Runway Excursion (18.3m);4.57;56.5;9;0.4607
+58;[FAILED];Runway Excursion (18.7m);5.33;85.4;9;0.4537
+59;[FAILED];Runway Excursion (18.1m);7.43;39.8;9;0.4492
+60;[FAILED];Course lost (Heading);12.67;56.1;9;0.4455
+61;[FAILED];Runway Excursion (16.1m);5.24;44.8;9;0.4408
+62;[FAILED];Runway Excursion (16.2m);6.31;42.0;9;0.4361
+63;[FAILED];Runway Excursion (16.1m);6.20;42.8;9;0.4318
+64;[FAILED];Runway Excursion (16.0m);5.33;46.4;9;0.4273
+65;[FAILED];Runway Excursion (16.2m);5.27;47.4;9;0.6306
+66;[FAILED];Runway Excursion (16.1m);4.06;58.5;9;0.6234
+67;[FAILED];Runway Excursion (16.0m);2.70;70.1;9;0.6148
+68;[FAILED];Runway Excursion (16.1m);4.62;48.7;9;0.6083
+69;[FAILED];Runway Excursion (16.5m);4.48;54.7;9;0.6014
+70;[FAILED];Course lost (Heading);15.57;127.1;849;0.5809
+71;[FAILED];Runway Excursion (16.3m);4.89;49.6;9;0.5743
+72;[FAILED];Runway Excursion (16.2m);7.85;37.1;9;0.5689
+73;[FAILED];Runway Excursion (16.1m);2.76;66.2;9;0.5618
+74;[FAILED];Runway Excursion (16.1m);5.49;42.3;9;0.5559
+75;[FAILED];Runway Excursion (16.1m);5.93;44.4;9;0.5504
+76;[FAILED];Runway Excursion (16.0m);4.70;48.3;9;0.5446
+77;[FAILED];Runway Excursion (16.0m);2.07;78.5;9;0.5368
+78;[FAILED];Runway Excursion (16.2m);5.86;43.2;9;0.5315
+79;[FAILED];Runway Excursion (16.4m);2.58;81.4;9;0.5239
+80;[FAILED];Runway Excursion (16.2m);2.73;80.8;9;0.5159
+81;[FAILED];Runway Excursion (16.0m);2.22;89.8;9;0.5077
+82;[FAILED];Runway Excursion (16.2m);2.40;148.7;10;0.4950
+83;[FAILED];Runway Excursion (16.1m);2.67;77.9;9;0.4881
+84;[FAILED];Runway Excursion (16.0m);3.60;79.1;9;0.4809
+85;[FAILED];Crashed / Too low;0.00;0.0;0;0.4804
+86;[FAILED];Runway Excursion (16.1m);2.36;83.3;10;0.4734
+87;[FAILED];Runway Excursion (16.2m);1.46;108.3;9;0.4648
+88;[FAILED];Runway Excursion (16.2m);1.87;92.3;9;0.4573
+89;[FAILED];Runway Excursion (16.2m);2.03;78.8;10;0.4504
+90;[FAILED];Timeout;7.47;173.7;1305;0.4321
+91;[FAILED];Runway Excursion (14.0m);1.23;99.3;11;0.4246
+92;[FAILED];Runway Excursion (14.0m);0.96;119.4;10;0.4162
+93;[FAILED];Runway Excursion (14.2m);1.05;111.8;11;0.4083
+94;[FAILED];Runway Excursion (14.1m);1.21;156.5;10;0.3981
+95;[FAILED];Runway Excursion (20.0m);1.10;207.7;13;0.6131
+96;[FAILED];Runway Excursion (14.0m);1.31;110.1;9;0.6014
+97;[FAILED];Runway Excursion (14.1m);1.15;167.2;9;0.5846
+98;[FAILED];Runway Excursion (14.0m);0.89;177.2;9;0.5673
+99;[FAILED];Runway Excursion (14.1m);0.80;179.2;9;0.5505
+100;[FAILED];Runway Excursion (14.1m);1.40;113.4;9;0.5399
+101;[FAILED];Runway Excursion (14.5m);1.24;150.9;9;0.5261
+102;[FAILED];Runway Excursion (14.1m);0.79;123.2;9;0.5154
+103;[FAILED];Runway Excursion (14.2m);0.94;134.7;9;0.5038
+104;[FAILED];Runway Excursion (14.1m);0.90;159.4;9;0.4906
+105;[FAILED];Runway Excursion (14.1m);1.02;132.1;9;0.4802
+106;[FAILED];Runway Excursion (14.1m);2.06;84.7;9;0.4732
+107;[FAILED];Runway Excursion (14.1m);1.67;94.8;9;0.4655
+108;[FAILED];Runway Excursion (14.0m);1.05;135.6;9;0.4552
+109;[FAILED];Stagnation (No speed increase);0.79;112.4;9;0.4464
+110;[FAILED];Stagnation (No speed increase);0.83;202.0;9;0.4320
+111;[FAILED];Runway Excursion (14.1m);1.26;113.5;9;0.4239
+112;[FAILED];Runway Excursion (14.2m);0.59;172.8;9;0.6185
+113;[FAILED];Runway Excursion (14.0m);1.57;99.0;9;0.6083
+114;[FAILED];Runway Excursion (14.0m);2.31;72.1;9;0.5997
+115;[FAILED];Runway Excursion (14.1m);1.23;177.6;9;0.5814
+116;[FAILED];Runway Excursion (14.1m);1.26;118.3;9;0.5703
+117;[FAILED];Runway Excursion (14.0m);1.34;112.2;9;0.5593
+118;[FAILED];Runway Excursion (14.1m);1.03;110.1;9;0.5490
+119;[FAILED];Runway Excursion (14.0m);1.49;110.1;9;0.5389
+120;[FAILED];Stagnation (No speed increase);0.49;202.1;9;0.5217
+121;[FAILED];Runway Excursion (12.0m);0.30;189.0;9;0.5045
+122;[FAILED];Runway Excursion (12.0m);1.04;127.5;9;0.4942
+123;[FAILED];Runway Excursion (12.1m);1.00;128.4;9;0.4835
+124;[FAILED];Runway Excursion (12.3m);1.94;160.7;9;0.4703
+125;[FAILED];Runway Excursion (12.0m);1.14;117.0;9;0.4611
+126;[FAILED];Runway Excursion (12.1m);1.01;129.5;9;0.4515
+127;[FAILED];Timeout;3.57;120.9;1524;0.4331
+128;[FAILED];Timeout;3.36;132.5;1496;0.4155
+129;[FAILED];Runway Excursion (12.2m);0.54;181.7;9;0.6177
+130;[FAILED];Stagnation (No speed increase);3.13;157.8;9;0.4049
+131;[FAILED];Stagnation (No speed increase);0.50;202.4;10;0.3775
+132;[FAILED];Runway Excursion (12.1m);2.42;64.5;9;0.3682
+133;[FAILED];Runway Excursion (12.1m);1.06;129.5;9;0.3527
+134;[FAILED];Runway Excursion (12.3m);1.82;68.6;9;0.3439
+135;[FAILED];Runway Excursion (12.0m);1.39;97.9;9;0.3328
+136;[FAILED];Runway Excursion (12.0m);0.88;147.9;10;0.3170
+137;[FAILED];Runway Excursion (12.1m);0.63;131.4;9;0.3040
+138;[FAILED];Runway Excursion (12.0m);0.47;141.4;9;0.2905
+139;[FAILED];Stagnation (No speed increase);0.58;46.6;9;0.2842
+140;[FAILED];Stagnation (No speed increase);1.57;201.9;9;0.2662
+141;[FAILED];Runway Excursion (12.1m);0.87;132.9;9;0.2550
+142;[FAILED];Runway Excursion (12.0m);0.82;111.8;9;0.2459
+143;[FAILED];Runway Excursion (12.1m);0.69;149.6;9;0.2344
+144;[FAILED];Runway Excursion (12.2m);0.88;142.6;10;0.2239
+145;[FAILED];Runway Excursion (12.1m);0.58;153.3;9;0.2132
+146;[FAILED];Runway Excursion (12.1m);2.32;63.9;9;0.2081
+147;[FAILED];Runway Excursion (12.0m);0.73;116.0;9;0.4342
+148;[FAILED];Runway Excursion (12.0m);0.88;110.4;9;0.4185
+149;[FAILED];Runway Excursion (12.0m);0.41;153.7;9;0.3976
+150;[FAILED];Stagnation (No speed increase);6.00;0.0;9;0.3917
+151;[FAILED];Course lost (Heading);12.01;114.2;1296;0.3647
+152;[FAILED];Timeout;3.70;111.5;1502;0.3357
+153;[FAILED];Timeout;3.27;112.5;1529;0.3092
+154;[FAILED];Runway Excursion (10.1m);1.23;102.9;9;0.2990
+155;[FAILED];Runway Excursion (10.0m);0.98;117.1;12;0.2880
+156;[FAILED];Runway Excursion (10.2m);0.46;170.3;9;0.2726
+157;[FAILED];Timeout;2.50;217.6;180;0.2512
+158;[FAILED];Timeout;4.94;139.3;1192;0.2315
+159;[FAILED];Runway Excursion (10.0m);1.42;86.9;9;0.2246
+160;[FAILED];Stagnation (No speed increase);0.95;160.3;9;0.2125
+161;[FAILED];Runway Excursion (10.0m);3.87;49.6;9;0.2083
+162;[FAILED];Runway Excursion (10.1m);2.65;66.8;9;0.2034
+163;[FAILED];Runway Excursion (10.3m);4.06;45.1;9;0.1995
+164;[FAILED];Runway Excursion (10.1m);3.60;51.5;9;0.1955
+165;[FAILED];Runway Excursion (10.0m);2.44;71.1;9;0.1908
+166;[FAILED];Runway Excursion (10.0m);2.05;65.9;9;0.1860
+167;[FAILED];Runway Excursion (10.1m);0.93;138.2;10;0.1782
+168;[FAILED];Runway Excursion (10.0m);1.76;74.2;9;0.1736
+169;[FAILED];Runway Excursion (10.0m);1.22;101.6;10;0.1680
+170;[FAILED];Runway Excursion (10.1m);1.38;87.7;10;0.4383
+171;[FAILED];Runway Excursion (10.1m);1.54;85.9;10;0.4256
+172;[FAILED];Runway Excursion (10.1m);0.83;101.1;12;0.4113
+173;[FAILED];Timeout;3.58;156.5;983;0.3785
+174;[FAILED];Course lost (Heading);5.43;127.3;610;0.3561
+175;[FAILED];Runway Excursion (20.0m);1.37;173.0;14;0.3361
+176;[FAILED];Runway Excursion (10.1m);0.60;120.6;9;0.3228
+177;[FAILED];Runway Excursion (10.0m);1.02;157.2;9;0.3068
+178;[FAILED];Runway Excursion (10.1m);0.42;139.5;9;0.2932
+179;[FAILED];Runway Excursion (20.0m);1.12;184.2;12;0.2754
+180;[FAILED];Timeout;2.02;196.1;839;0.2537
+181;[FAILED];Runway Excursion (8.0m);0.91;113.5;9;0.2445
+182;[FAILED];Runway Excursion (8.1m);1.02;98.1;9;0.2364
+183;[FAILED];Timeout;0.54;144.1;1389;0.2180
+184;[FAILED];Runway Excursion (12.1m);0.52;198.6;14;0.2040
+185;[FAILED];Runway Excursion (8.0m);1.76;83.5;9;0.1982
+186;[FAILED];Runway Excursion (8.0m);1.41;73.9;9;0.1928
+187;[FAILED];Runway Excursion (8.1m);1.28;89.7;9;0.1872
+188;[FAILED];Runway Excursion (8.0m);1.11;87.8;9;0.1817
+189;[FAILED];Runway Excursion (8.0m);1.42;74.7;9;0.1768
+190;[FAILED];Stagnation (No speed increase);0.72;202.4;10;0.4254
+191;[FAILED];Runway Excursion (14.3m);0.53;146.1;11;0.4053
+192;[FAILED];Runway Excursion (8.1m);1.28;141.1;10;0.3868
+193;[FAILED];Runway Excursion (9.5m);0.64;167.3;12;0.3658
+194;[FAILED];Runway Excursion (8.4m);1.38;141.4;9;0.3495
+195;[FAILED];Runway Excursion (8.1m);2.69;81.6;9;0.3397
+196;[FAILED];Runway Excursion (8.1m);1.52;61.9;9;0.3313
+197;[FAILED];Runway Excursion (8.2m);1.15;144.0;9;0.3164
+198;[FAILED];Runway Excursion (8.4m);1.61;137.7;9;0.3028
+199;[FAILED];Crashed / Too low;0.00;0.0;0;0.3021
+200;[FAILED];Stagnation (No speed increase);6.00;0.0;9;0.2977
+201;[FAILED];Stagnation (No speed increase);6.00;0.0;9;0.2934
+202;[FAILED];Stagnation (No speed increase);10.93;0.5;9;0.2736
+203;[FAILED];Runway Excursion (8.1m);1.31;70.3;9;0.2665
+204;[FAILED];Runway Excursion (12.0m);1.74;216.7;15;0.2458
+205;[FAILED];Crashed / Too low;0.00;0.0;0;0.2453
+206;[FAILED];Crashed / Too low;0.00;0.0;0;0.2448
+207;[FAILED];Crashed / Too low;0.00;0.0;0;0.2443
+208;[FAILED];Timeout;3.68;126.4;1851;0.2251
+209;[FAILED];Runway Excursion (8.0m);4.58;38.0;9;0.2208
+210;[FAILED];Runway Excursion (7.0m);1.27;100.3;11;0.2132
+211;[FAILED];Runway Excursion (7.1m);1.10;94.0;9;0.2065
+212;[FAILED];Runway Excursion (7.1m);1.41;71.7;9;0.2010
+213;[FAILED];Runway Excursion (7.0m);1.12;91.2;9;0.1950
+214;[FAILED];Runway Excursion (7.1m);1.19;79.4;9;0.1897
+215;[FAILED];Runway Excursion (7.1m);1.03;95.9;9;0.1838
+216;[FAILED];Runway Excursion (7.1m);1.36;70.3;9;0.1790
+217;[FAILED];Runway Excursion (7.1m);1.20;80.0;9;0.1741
+218;[FAILED];Runway Excursion (7.0m);1.42;70.0;9;0.4403
+219;[FAILED];Runway Excursion (7.2m);1.03;97.4;9;0.4260
+220;[FAILED];Timeout;0.80;117.8;1938;0.3921
+221;[FAILED];Runway Excursion (7.0m);1.20;77.3;9;0.3808
+222;[FAILED];Runway Excursion (7.0m);0.75;129.0;9;0.3656
+223;[FAILED];Runway Excursion (7.0m);1.19;83.7;9;0.3547
+224;[FAILED];Runway Excursion (7.0m);0.96;113.4;9;0.3416
+225;[FAILED];Runway Excursion (7.1m);1.05;92.2;9;0.3311
+226;[FAILED];Runway Excursion (7.0m);1.25;81.7;9;0.3214
+227;[FAILED];Runway Excursion (7.1m);0.99;106.8;9;0.3105
+228;[FAILED];Runway Excursion (7.1m);0.82;124.3;9;0.2983
+229;[FAILED];Timeout;1.96;115.9;1590;0.2748
+230;[FAILED];Timeout;0.84;109.1;1779;0.2532
+231;[FAILED];Runway Excursion (7.0m);0.53;127.3;9;0.2428
+232;[FAILED];Timeout;2.60;113.7;1603;0.2238
+233;[FAILED];Runway Excursion (7.2m);1.07;107.4;9;0.2163
+234;[FAILED];Runway Excursion (7.1m);1.20;80.3;9;0.2100
+235;[FAILED];Runway Excursion (7.1m);0.76;103.2;9;0.2028
+236;[FAILED];Timeout;2.79;117.3;1582;0.4159
+237;[FAILED];Timeout;0.78;113.6;1603;0.3828
+238;[FAILED];Runway Excursion (7.0m);1.13;72.7;9;0.3727
+239;[FAILED];Runway Excursion (7.4m);1.22;107.5;9;0.3595
+240;[FAILED];Runway Excursion (7.2m);0.96;104.4;11;0.3469
+241;[FAILED];Runway Excursion (7.1m);0.77;129.7;9;0.3325
+242;[FAILED];Runway Excursion (7.0m);0.43;121.8;9;0.3199
+243;[FAILED];Timeout;2.86;161.6;1098;0.2946
+244;[FAILED];Runway Excursion (7.1m);1.79;59.0;9;0.2878
+245;[FAILED];Runway Excursion (7.0m);0.55;111.6;13;0.2771
+246;[FAILED];Timeout;1.17;111.8;1502;0.2553
+247;[FAILED];Runway Excursion (7.2m);0.83;91.6;9;0.2473
+248;[FAILED];Runway Excursion (7.0m);4.11;31.5;9;0.2430
+249;[FAILED];Runway Excursion (7.1m);1.05;97.3;9;0.2353
+250;[FAILED];Course lost (Heading);6.01;111.8;1578;0.2178
+251;[FAILED];Timeout;1.90;111.5;1500;0.2008
+252;[FAILED];Runway Excursion (7.1m);2.42;49.4;9;0.4417
+253;[FAILED];Runway Excursion (7.1m);2.60;43.7;9;0.4323
+254;[FAILED];Timeout;1.67;111.6;1487;0.3978
+255;[FAILED];Runway Excursion (7.1m);0.80;104.9;10;0.3838
+256;[FAILED];Runway Excursion (7.0m);1.59;58.3;9;0.3744
+257;[FAILED];Runway Excursion (7.1m);1.44;78.2;9;0.3641
+258;[FAILED];Runway Excursion (7.1m);1.39;83.5;9;0.3539
+259;[FAILED];Runway Excursion (7.1m);1.14;104.3;12;0.3412
+260;[FAILED];Timeout;4.35;109.8;1779;0.3142
+261;[FAILED];Timeout;5.04;113.3;1475;0.2894
+262;[FAILED];Runway Excursion (7.1m);1.00;97.5;11;0.2797
+263;[FAILED];Timeout;2.04;111.2;1562;0.2577
+264;[FAILED];Runway Excursion (7.1m);1.36;75.5;9;0.2508
+265;[FAILED];Timeout;2.69;111.8;1542;0.2312
+266;[FAILED];Runway Excursion (7.0m);1.11;92.1;9;0.2243
+267;[FAILED];Runway Excursion (7.1m);1.64;61.8;9;0.2190
+268;[FAILED];Timeout;4.58;112.1;1499;0.2019
+269;[FAILED];Timeout;2.36;110.9;1567;0.4159
+270;[FAILED];Dangerous Premature Takeoff (106.6 kts < 130);1.47;106.6;13;0.4038
+271;[FAILED];Runway Excursion (15.1m);2.55;76.2;9;0.3923
+272;[FAILED];Runway Excursion (15.1m);2.03;83.9;9;0.3805
+273;[FAILED];Runway Excursion (15.6m);2.68;72.0;9;0.3702
+274;[FAILED];Runway Excursion (15.1m);1.60;105.6;12;0.3567
+275;[FAILED];Runway Excursion (15.1m);1.99;86.4;11;0.3458
+276;[FAILED];Runway Excursion (15.1m);1.52;91.8;12;0.3345
+277;[FAILED];Runway Excursion (15.0m);3.02;61.3;9;0.3261
+278;[FAILED];Runway Excursion (15.1m);2.18;83.6;10;0.3168
+279;[FAILED];Runway Excursion (15.2m);1.32;103.7;13;0.3053
+280;[FAILED];Stagnation (No speed increase);6.00;0.0;9;0.3009
+281;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);1.75;106.1;13;0.2922
+282;[FAILED];Runway Excursion (15.2m);3.50;58.0;9;0.2855
+283;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);0.54;106.7;13;0.2753
+284;[FAILED];Runway Excursion (15.1m);1.44;94.0;12;0.2662
+285;[FAILED];Dangerous Premature Takeoff (106.2 kts < 130);1.08;106.2;13;0.2567
+286;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);0.64;106.7;13;0.2475
+287;[FAILED];Runway Excursion (15.4m);8.01;35.5;9;0.2432
+288;[FAILED];Dangerous Premature Takeoff (107.0 kts < 130);0.84;107.0;13;0.2343
+289;[FAILED];Runway Excursion (15.0m);1.47;103.5;13;0.2261
+290;[FAILED];Dangerous Premature Takeoff (106.9 kts < 130);0.69;106.9;13;0.2180
+291;[FAILED];Dangerous Premature Takeoff (106.6 kts < 130);1.07;106.6;13;0.2101
+292;[FAILED];Dangerous Premature Takeoff (106.6 kts < 130);0.75;106.6;13;0.2025
+293;[FAILED];Runway Excursion (15.1m);1.66;101.6;12;0.4358
+294;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);0.88;106.7;13;0.4199
+295;[FAILED];Dangerous Premature Takeoff (105.9 kts < 130);0.34;105.9;13;0.4042
+296;[FAILED];Dangerous Premature Takeoff (105.9 kts < 130);0.47;105.9;13;0.3896
+297;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);1.23;106.1;13;0.3750
+298;[FAILED];Dangerous Premature Takeoff (105.9 kts < 130);0.48;105.9;13;0.3619
+299;[FAILED];Stagnation (No speed increase);0.56;101.5;12;0.3491
+300;[FAILED];Dangerous Premature Takeoff (109.0 kts < 130);1.69;109.0;14;0.3382
+301;[FAILED];Dangerous Premature Takeoff (106.3 kts < 130);0.99;106.3;13;0.3261
+302;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);1.01;106.1;13;0.3144
+303;[FAILED];Runway Excursion (13.2m);2.20;73.3;9;0.3059
+304;[FAILED];Dangerous Premature Takeoff (107.7 kts < 130);2.38;107.7;13;0.2944
+305;[FAILED];Runway Excursion (13.0m);2.51;75.5;9;0.2863
+306;[FAILED];Runway Excursion (13.3m);1.34;99.7;12;0.2768
+307;[FAILED];Dangerous Premature Takeoff (108.5 kts < 130);2.64;108.5;13;0.2669
+308;[FAILED];Dangerous Premature Takeoff (108.7 kts < 130);1.60;108.7;13;0.2568
+309;[FAILED];Runway Excursion (13.1m);2.61;72.2;9;0.2503
+310;[FAILED];Dangerous Premature Takeoff (107.3 kts < 130);1.42;107.3;13;0.2431
+311;[FAILED];Runway Excursion (13.0m);3.49;52.4;9;0.2375
+312;[FAILED];Dangerous Premature Takeoff (108.9 kts < 130);1.04;108.9;14;0.2285
+313;[FAILED];Dangerous Premature Takeoff (107.5 kts < 130);0.82;107.5;13;0.2203
+314;[FAILED];Runway Excursion (13.1m);2.97;70.1;9;0.2145
+315;[FAILED];Dangerous Premature Takeoff (107.5 kts < 130);1.74;107.5;13;0.2066
+316;[FAILED];Dangerous Premature Takeoff (107.9 kts < 130);0.58;107.9;13;0.4348
+317;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);0.58;106.1;13;0.4186
+318;[FAILED];Dangerous Premature Takeoff (108.2 kts < 130);0.99;108.2;13;0.4028
+319;[FAILED];Dangerous Premature Takeoff (107.9 kts < 130);0.51;107.9;13;0.3882
+320;[FAILED];Runway Excursion (13.1m);2.11;81.3;9;0.3773
+321;[FAILED];Dangerous Premature Takeoff (106.0 kts < 130);0.45;106.0;13;0.3636
+322;[FAILED];Dangerous Premature Takeoff (129.9 kts < 130);2.18;129.9;915;0.3395
+323;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);0.74;106.1;13;0.3276
+324;[FAILED];Dangerous Premature Takeoff (106.6 kts < 130);0.76;106.6;13;0.3160
+325;[FAILED];Dangerous Premature Takeoff (106.2 kts < 130);0.48;106.2;13;0.3047
+326;[FAILED];Dangerous Premature Takeoff (108.3 kts < 130);0.81;108.3;13;0.2936
+327;[FAILED];Dangerous Premature Takeoff (109.9 kts < 130);1.38;109.9;13;0.2826
+328;[FAILED];Runway Excursion (13.1m);3.37;102.9;11;0.2727
+329;[FAILED];Dangerous Premature Takeoff (107.8 kts < 130);3.04;107.8;13;0.2630
+330;[FAILED];Dangerous Premature Takeoff (108.2 kts < 130);1.99;108.2;13;0.2535
+331;[FAILED];Dangerous Premature Takeoff (107.2 kts < 130);1.93;107.2;13;0.2441
+332;[FAILED];Dangerous Premature Takeoff (112.1 kts < 130);2.34;112.1;13;0.2352
+333;[FAILED];Dangerous Premature Takeoff (118.1 kts < 130);2.70;118.1;13;0.2261
+334;[FAILED];Runway Excursion (13.0m);1.18;107.8;12;0.2179
+335;[FAILED];Dangerous Premature Takeoff (110.4 kts < 130);0.98;110.4;13;0.2099
+336;[FAILED];Dangerous Premature Takeoff (129.9 kts < 130);1.37;129.9;792;0.1966
+337;[FAILED];Timeout;1.25;137.9;1396;0.4159
+338;[FAILED];Runway Excursion (13.1m);1.67;81.4;9;0.4038
+339;[FAILED];Runway Excursion (13.1m);1.66;89.3;9;0.3913
+340;[FAILED];Dangerous Premature Takeoff (108.9 kts < 130);0.83;108.9;13;0.3799
+341;[FAILED];Runway Excursion (13.1m);1.22;101.2;9;0.3667
+342;[FAILED];Dangerous Premature Takeoff (117.6 kts < 130);1.52;117.6;13;0.3520
+343;[FAILED];Runway Excursion (13.0m);1.20;101.9;9;0.3401
+344;[FAILED];Dangerous Premature Takeoff (106.3 kts < 130);0.43;106.3;13;0.3280
+345;[FAILED];Runway Excursion (13.0m);2.54;102.8;9;0.3168
+346;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);0.77;106.1;13;0.3056
+347;[FAILED];Dangerous Premature Takeoff (105.9 kts < 130);0.69;105.9;13;0.2947
+348;[FAILED];Dangerous Premature Takeoff (106.2 kts < 130);0.51;106.2;13;0.2841
+349;[FAILED];Dangerous Premature Takeoff (112.2 kts < 130);1.22;112.2;12;0.2735
+350;[FAILED];Runway Excursion (12.1m);1.00;111.1;11;0.2637
+351;[FAILED];Runway Excursion (12.1m);3.03;89.1;9;0.2558
+352;[FAILED];Dangerous Premature Takeoff (108.0 kts < 130);0.60;108.0;13;0.2464
+353;[FAILED];Dangerous Premature Takeoff (130.0 kts < 130);1.23;130.0;1019;0.2301
+354;[FAILED];Dangerous Premature Takeoff (114.4 kts < 130);0.57;114.4;13;0.2215
+355;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);0.54;106.7;13;0.2134
+356;[FAILED];Dangerous Premature Takeoff (109.5 kts < 130);0.35;109.5;13;0.2060
+357;[FAILED];Dangerous Premature Takeoff (109.2 kts < 130);0.37;109.2;13;0.4351
+358;[FAILED];Dangerous Premature Takeoff (115.9 kts < 130);0.46;115.9;12;0.4185
+359;[FAILED];Dangerous Premature Takeoff (109.1 kts < 130);0.69;109.1;13;0.4028
+360;[FAILED];Dangerous Premature Takeoff (108.7 kts < 130);0.89;108.7;13;0.3912
+361;[FAILED];Dangerous Premature Takeoff (106.1 kts < 130);1.27;106.1;13;0.3772
+362;[FAILED];Runway Excursion (12.1m);2.95;70.1;9;0.3672
+363;[FAILED];Dangerous Premature Takeoff (111.3 kts < 130);0.78;111.3;13;0.3539
+364;[FAILED];Dangerous Premature Takeoff (111.4 kts < 130);0.47;111.4;13;0.3404
+365;[FAILED];Dangerous Premature Takeoff (112.2 kts < 130);2.29;112.2;13;0.3275
+366;[FAILED];Dangerous Premature Takeoff (112.5 kts < 130);1.65;112.5;12;0.3154
+367;[FAILED];Dangerous Premature Takeoff (108.3 kts < 130);0.53;108.3;13;0.3043
+368;[FAILED];Dangerous Premature Takeoff (107.8 kts < 130);0.84;107.8;13;0.2929
+369;[FAILED];Dangerous Premature Takeoff (110.7 kts < 130);1.14;110.7;13;0.2819
+370;[FAILED];Dangerous Premature Takeoff (129.9 kts < 130);3.13;129.9;1503;0.2599
+371;[FAILED];Runway Excursion (12.1m);1.12;93.9;9;0.2520
+372;[FAILED];Dangerous Premature Takeoff (121.5 kts < 130);0.74;121.5;12;0.2419
+373;[FAILED];Runway Excursion (12.0m);0.59;132.9;9;0.2318
+374;[FAILED];Runway Excursion (12.0m);1.52;83.4;9;0.2250
+375;[FAILED];Runway Excursion (12.4m);0.73;147.9;9;0.2147
+376;[FAILED];Runway Excursion (12.1m);0.71;122.9;9;0.2063
+377;[FAILED];Runway Excursion (12.0m);0.48;139.4;9;0.4320
+378;[FAILED];Runway Excursion (12.1m);1.17;87.4;9;0.4191
+379;[FAILED];Runway Excursion (12.3m);1.12;120.3;9;0.4029
+380;[FAILED];Dangerous Premature Takeoff (119.5 kts < 130);0.97;119.5;12;0.3902
+381;[FAILED];Timeout;4.04;132.8;1527;0.3592
+382;[FAILED];Runway Excursion (12.1m);0.85;159.1;10;0.3410
+383;[FAILED];Runway Excursion (12.1m);1.03;127.2;9;0.3271
+384;[FAILED];Runway Excursion (12.0m);1.30;86.1;9;0.3171
+385;[FAILED];Runway Excursion (12.0m);1.01;149.8;9;0.3017
+386;[FAILED];Runway Excursion (12.2m);0.67;141.6;9;0.2880
+387;[FAILED];Runway Excursion (12.1m);1.02;152.5;9;0.2740
+388;[FAILED];Runway Excursion (12.0m);1.82;84.2;9;0.2661
+389;[FAILED];Runway Excursion (12.0m);1.69;115.2;9;0.2558
+390;[FAILED];Dangerous Premature Takeoff (129.9 kts < 130);1.13;129.9;1379;0.2364
+391;[FAILED];Runway Excursion (12.1m);1.21;86.8;9;0.2294
+392;[FAILED];Runway Excursion (12.1m);1.20;138.5;9;0.2191
+393;[FAILED];Runway Excursion (12.1m);1.20;120.4;9;0.2105
+394;[FAILED];Runway Excursion (12.2m);1.10;150.7;9;0.2003
+395;[FAILED];Runway Excursion (12.0m);0.80;168.0;9;0.4271
+396;[FAILED];Runway Excursion (12.2m);0.95;148.0;9;0.4069
+397;[FAILED];Runway Excursion (12.1m);0.80;110.5;9;0.3918
+398;[FAILED];Runway Excursion (12.1m);0.78;126.4;9;0.3759
+399;[FAILED];Runway Excursion (12.0m);0.61;138.0;9;0.3593
+400;[FAILED];Timeout;3.45;179.3;1124;0.3308
+401;[FAILED];Runway Excursion (12.0m);0.72;150.2;9;0.3147
+402;[FAILED];Timeout;1.58;166.6;1021;0.2899
+403;[FAILED];Runway Excursion (12.0m);0.46;169.7;9;0.2740
+404;[FAILED];Runway Excursion (12.2m);1.92;162.3;12;0.2596
+405;[FAILED];Runway Excursion (12.2m);1.50;149.2;10;0.2476
+406;[FAILED];Runway Excursion (12.0m);1.57;154.5;9;0.2350
+407;[FAILED];Runway Excursion (12.4m);1.01;149.1;9;0.2240
+408;[FAILED];Runway Excursion (12.3m);1.20;156.7;9;0.2127
+409;[FAILED];Timeout;2.36;154.2;1091;0.1962
+410;[FAILED];Timeout;2.68;208.1;688;0.4159
+411;[FAILED];Stagnation (No speed increase);0.77;185.9;9;0.3893
+412;[FAILED];Runway Excursion (20.0m);0.98;176.9;12;0.3669
+413;[FAILED];Runway Excursion (12.0m);0.99;107.9;9;0.3539
+414;[FAILED];Runway Excursion (12.0m);0.91;125.5;10;0.3399
+415;[FAILED];Runway Excursion (12.0m);1.85;77.2;9;0.3309
+416;[FAILED];Runway Excursion (12.4m);6.48;33.9;9;0.3247
+417;[FAILED];Runway Excursion (12.1m);2.92;68.1;9;0.3169
+418;[FAILED];Runway Excursion (12.2m);0.92;144.6;9;0.3024
+419;[FAILED];Runway Excursion (12.1m);1.16;162.7;9;0.2861
+420;[FAILED];Crashed / Too low;0.00;0.0;0;0.2855
+421;[FAILED];Crashed / Too low;0.00;0.0;0;0.2849
+422;[FAILED];Crashed / Too low;0.00;0.0;0;0.2843
+423;[FAILED];Crashed / Too low;0.00;0.0;0;0.2837
+424;[FAILED];Crashed / Too low;0.00;0.0;0;0.2831
+425;[FAILED];Crashed / Too low;0.00;0.0;0;0.2825
+426;[FAILED];Crashed / Too low;0.00;0.0;0;0.2819
+427;[FAILED];Crashed / Too low;0.00;0.0;0;0.2813
+428;[FAILED];Runway Excursion (12.2m);3.31;48.2;9;0.2751
+429;[FAILED];Runway Excursion (12.0m);4.66;48.4;9;0.2693
+430;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.2653
+431;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.2615
+432;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.2577
+433;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.2540
+434;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.2503
+435;[FAILED];Timeout;1.03;170.5;1228;0.2307
+436;[FAILED];Runway Excursion (12.0m);1.17;114.4;9;0.2221
+437;[FAILED];Runway Excursion (12.1m);0.46;181.5;9;0.2089
+438;[FAILED];Runway Excursion (12.1m);0.70;179.8;9;0.1972
+439;[FAILED];Runway Excursion (12.0m);0.93;144.2;9;0.1885
+440;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1858
+441;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1832
+442;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1805
+443;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1780
+444;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1754
+445;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1729
+446;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1705
+447;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1681
+448;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1657
+449;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.1633
+450;[FAILED];Stagnation (No speed increase);1.18;202.1;9;0.1537
+451;[FAILED];Runway Excursion (12.0m);1.00;136.0;9;0.1473
+452;[FAILED];Runway Excursion (12.1m);0.89;163.0;9;0.1397
+453;[FAILED];Runway Excursion (12.1m);1.09;124.1;9;0.1345
+454;[FAILED];Runway Excursion (12.1m);0.71;172.5;9;0.1273
+455;[FAILED];Runway Excursion (12.0m);0.80;159.3;9;0.1210
+456;[FAILED];Stagnation (No speed increase);0.67;202.2;9;0.1130
+457;[FAILED];Runway Excursion (12.0m);0.95;139.1;9;0.1083
+458;[FAILED];Runway Excursion (12.0m);1.33;108.1;9;0.1048
+459;[FAILED];Runway Excursion (12.0m);1.25;109.0;9;0.1013
+460;[FAILED];Stagnation (No speed increase);4.20;202.4;9;0.0955
+461;[FAILED];Runway Excursion (12.1m);1.55;88.9;9;0.0929
+462;[FAILED];Runway Excursion (12.1m);1.35;106.0;9;0.0900
+421;[FAILED];Timeout;0.85;240.8;14;0.2631
+422;[FAILED];Runway Excursion (15.0m);0.79;180.1;9;0.2481
+423;[FAILED];Stagnation (No speed increase);0.59;163.9;9;0.2347
+424;[FAILED];Runway Excursion (15.1m);1.21;124.5;9;0.2253
+425;[FAILED];Runway Excursion (15.0m);1.25;124.6;9;0.2166
+426;[FAILED];Stagnation (No speed increase);0.71;202.2;9;0.2020
+427;[FAILED];Timeout;0.60;174.2;992;0.1864
+428;[FAILED];Runway Excursion (15.0m);0.99;148.0;9;0.1777
+429;[FAILED];Runway Excursion (15.0m);1.13;134.8;9;0.1704
+430;[FAILED];Runway Excursion (15.1m);1.11;129.9;9;0.1636
+431;[FAILED];Runway Excursion (15.2m);1.58;103.3;9;0.1583
+432;[FAILED];Runway Excursion (15.0m);1.65;103.4;9;0.1531
+433;[FAILED];Runway Excursion (15.1m);1.46;107.6;9;0.1478
+434;[FAILED];Runway Excursion (15.0m);1.49;113.0;9;0.1425
+435;[FAILED];Runway Excursion (15.0m);1.34;117.8;9;0.1374
+436;[FAILED];Runway Excursion (15.1m);1.24;123.6;9;0.1324
+437;[FAILED];Runway Excursion (15.0m);1.36;114.5;9;0.1276
+438;[FAILED];Stagnation (No speed increase);1.05;202.6;10;0.1193
+439;[FAILED];Runway Excursion (15.0m);1.26;127.1;9;0.1147
+440;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4453
+441;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4387
+442;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4323
+443;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4259
+444;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4196
+445;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4134
+446;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4074
+447;[FAILED];Crashed / Too low;0.00;0.0;0;0.4065
+448;[FAILED];Crashed / Too low;0.00;0.0;0;0.4056
+449;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.3996
+450;[FAILED];Dangerous Premature Takeoff (105.8 kts < 130);0.64;105.8;13;0.3885
+451;[FAILED];Runway Excursion (15.1m);1.18;129.5;9;0.3721
+452;[FAILED];Runway Excursion (15.1m);1.16;135.3;9;0.3561
+453;[FAILED];Runway Excursion (15.1m);1.28;121.5;9;0.3419
+454;[FAILED];Runway Excursion (15.0m);1.34;123.4;9;0.3288
+455;[FAILED];Runway Excursion (15.0m);1.22;127.7;9;0.3151
+456;[FAILED];Runway Excursion (15.0m);1.28;125.2;9;0.3025
+457;[FAILED];Runway Excursion (15.1m);1.36;119.1;9;0.2911
+458;[FAILED];Runway Excursion (15.1m);1.65;152.6;9;0.2772
+459;[FAILED];Runway Excursion (15.1m);1.34;117.8;9;0.2666
+460;[FAILED];Timeout;1.38;180.2;1223;0.2457
+461;[FAILED];Runway Excursion (15.0m);1.26;128.0;9;0.2360
+462;[FAILED];Dangerous Premature Takeoff (126.6 kts < 130);1.09;126.6;12;0.2268
+463;[FAILED];Dangerous Premature Takeoff (122.9 kts < 130);1.05;122.9;12;0.2182
+464;[FAILED];Dangerous Premature Takeoff (119.7 kts < 130);0.99;119.7;12;0.2102
+465;[FAILED];Dangerous Premature Takeoff (115.4 kts < 130);0.96;115.4;12;0.2023
+466;[FAILED];Dangerous Premature Takeoff (130.0 kts < 130);2.38;130.0;986;0.4216
+467;[FAILED];Dangerous Premature Takeoff (119.2 kts < 130);0.67;119.2;12;0.4048
+468;[FAILED];Dangerous Premature Takeoff (115.9 kts < 130);0.40;115.9;12;0.3897
+469;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);0.80;106.7;13;0.3757
+470;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.3702
+471;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.3648
+472;[FAILED];Crashed / Too low;0.00;0.0;0;0.3640
+473;[FAILED];Crashed / Too low;0.00;0.0;0;0.3632
+474;[FAILED];Crashed / Too low;0.00;0.0;0;0.3625
+475;[FAILED];Crashed / Too low;0.00;0.0;0;0.3617
+476;[FAILED];Crashed / Too low;0.00;0.0;0;0.3609
+477;[FAILED];Crashed / Too low;0.00;0.0;0;0.3601
+478;[FAILED];Crashed / Too low;0.00;0.0;0;0.3594
+479;[FAILED];Dangerous Premature Takeoff (122.9 kts < 130);0.92;122.9;12;0.3474
+480;[FAILED];Dangerous Premature Takeoff (126.8 kts < 130);1.78;126.8;12;0.3357
+481;[FAILED];Dangerous Premature Takeoff (106.5 kts < 130);1.30;106.5;13;0.3239
+482;[FAILED];Dangerous Premature Takeoff (106.9 kts < 130);1.27;106.9;13;0.3121
+483;[FAILED];Dangerous Premature Takeoff (111.9 kts < 130);0.92;111.9;12;0.3007
+484;[FAILED];Dangerous Premature Takeoff (119.1 kts < 130);1.12;119.1;13;0.2890
+485;[FAILED];Dangerous Premature Takeoff (121.1 kts < 130);1.11;121.1;12;0.2775
+486;[FAILED];Runway Excursion (15.0m);1.45;112.7;9;0.2673
+487;[FAILED];Runway Excursion (15.1m);1.20;105.0;13;0.2579
+488;[FAILED];Dangerous Premature Takeoff (112.2 kts < 130);0.81;112.2;13;0.2485
+489;[FAILED];Dangerous Premature Takeoff (114.2 kts < 130);1.01;114.2;12;0.2393
+490;[FAILED];Dangerous Premature Takeoff (119.4 kts < 130);0.34;119.4;12;0.2318
+491;[FAILED];Runway Excursion (15.2m);1.27;102.0;13;0.2240
+492;[FAILED];Dangerous Premature Takeoff (106.3 kts < 130);1.19;106.3;13;0.2161
+493;[FAILED];Dangerous Premature Takeoff (116.8 kts < 130);0.81;116.8;12;0.2081
+494;[FAILED];Dangerous Premature Takeoff (129.9 kts < 130);2.76;129.9;925;0.1947
+495;[FAILED];Dangerous Premature Takeoff (108.9 kts < 130);0.60;108.9;13;0.1879
+496;[FAILED];Dangerous Premature Takeoff (106.7 kts < 130);1.11;106.7;13;0.1815
+497;[FAILED];Dangerous Premature Takeoff (127.4 kts < 130);0.62;127.4;12;0.1744
+498;[FAILED];Dangerous Premature Takeoff (106.4 kts < 130);1.03;106.4;13;0.1682
+499;[FAILED];Runway Excursion (15.1m);1.27;98.2;12;0.1627
+500;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4453
+501;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.4387
+502;[FAILED];Timeout;1.61;190.9;946;0.4038
+503;[FAILED];Dangerous Premature Takeoff (124.6 kts < 130);0.75;124.6;12;0.3878
+504;[FAILED];Runway Excursion (15.0m);1.40;140.2;9;0.3707
+505;[FAILED];Dangerous Premature Takeoff (127.1 kts < 130);0.35;127.1;12;0.3560
+506;[FAILED];Runway Excursion (15.0m);0.96;143.8;9;0.3395
+507;[FAILED];Dangerous Premature Takeoff (110.5 kts < 130);0.63;110.5;13;0.3272
+508;[FAILED];Timeout;0.58;208.7;362;0.3013
+509;[FAILED];Dangerous Premature Takeoff (121.8 kts < 130);0.74;121.8;12;0.2894
+510;[FAILED];Runway Excursion (15.1m);0.46;172.2;12;0.2733
+511;[FAILED];Runway Excursion (20.0m);0.75;194.1;15;0.2559
+512;[FAILED];Timeout;3.93;161.7;1142;0.2359
+513;[FAILED];Timeout;0.67;211.6;395;0.2175
+514;[FAILED];Timeout;0.41;182.9;805;0.2005
+515;[FAILED];Timeout;0.59;229.0;36;0.4159
+516;[FAILED];Runway Excursion (20.0m);0.70;227.2;12;0.3829
+517;[FAILED];Runway Excursion (17.7m);0.46;201.4;14;0.3567
+518;[FAILED];Runway Excursion (19.0m);0.70;178.9;13;0.3359
+519;[FAILED];Runway Excursion (20.0m);0.60;186.2;14;0.3156
+520;[FAILED];Timeout;7.05;156.4;1566;0.2907
+521;[FAILED];Runway Excursion (15.3m);1.18;122.9;9;0.2795
+522;[FAILED];Timeout;1.42;142.7;1424;0.2575
+523;[FAILED];Runway Excursion (15.0m);1.44;134.1;9;0.2465
+524;[FAILED];Timeout;0.99;194.8;571;0.2272
+525;[FAILED];Timeout;3.74;199.6;597;0.2095
+526;[FAILED];Runway Excursion (15.0m);1.34;123.3;9;0.2015
+527;[FAILED];Timeout;2.13;182.4;852;0.4159
+528;[FAILED];Timeout;0.89;174.6;926;0.3828
+529;[FAILED];Timeout;0.90;179.6;957;0.3524
+530;[FAILED];Stagnation (No speed increase);0.34;0.0;148;0.3472
+531;[FAILED];Timeout;1.84;201.3;868;0.3197
+532;[FAILED];Timeout;0.79;196.7;542;0.2944
+533;[FAILED];Timeout;0.66;180.1;912;0.2712
+534;[FAILED];Runway Excursion (15.1m);1.17;131.2;9;0.2601
+535;[FAILED];Runway Excursion (15.2m);1.23;119.6;9;0.2500
+536;[FAILED];Timeout;4.27;174.1;1014;0.2305
+537;[FAILED];Runway Excursion (15.0m);1.32;118.9;9;0.2215
+538;[FAILED];Runway Excursion (15.2m);1.06;132.0;9;0.2121
+539;[FAILED];Runway Excursion (15.2m);1.11;134.0;9;0.2031
+540;[FAILED];Timeout;3.30;180.3;836;0.1873
+541;[FAILED];Timeout;2.26;167.0;1032;0.4159
+542;[FAILED];Timeout;1.17;186.1;850;0.3828
+543;[FAILED];Timeout;2.72;164.3;1183;0.3524
+544;[FAILED];Course lost (Heading);4.40;175.2;894;0.3247
+545;[FAILED];Timeout;3.51;149.6;1321;0.2990
+546;[FAILED];Timeout;2.33;178.5;903;0.2754
+547;[FAILED];Runway Excursion (15.1m);0.74;125.5;9;0.2646
+548;[FAILED];Timeout;2.46;195.8;629;0.2439
+549;[FAILED];Timeout;1.08;195.8;681;0.2248
+550;[FAILED];Timeout;2.20;195.0;653;0.2073
+551;[FAILED];Timeout;2.42;173.1;1058;0.4159
+552;[FAILED];Timeout;1.58;192.9;757;0.3828
+553;[FAILED];Timeout;0.83;195.6;643;0.3524
+554;[FAILED];Timeout;3.36;163.8;1117;0.3244
+555;[FAILED];Course lost (Heading);5.96;154.4;1295;0.2988
+556;[FAILED];Timeout;1.17;204.3;496;0.2752
+557;[FAILED];Timeout;2.41;191.0;736;0.2536
+558;[FAILED];Runway Excursion (15.0m);0.80;168.6;10;0.2400
+559;[FAILED];Timeout;2.56;200.8;585;0.2213
+560;[FAILED];Course lost (Heading);8.25;147.8;1420;0.2052
+561;[FAILED];Timeout;1.53;191.1;723;0.4159
+562;[FAILED];Stagnation (No speed increase);0.55;24.0;9;0.4087

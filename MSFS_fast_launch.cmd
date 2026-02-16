@@ -1,0 +1,1 @@
+cmd.exe /C start shell:AppsFolder\Microsoft.FlightSimulator_8wekyb3d8bbwe!App -FastLaunch

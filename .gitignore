@@ -1,0 +1,4 @@
+aienv
+fbw*
+.vscode
+checkpoint_episode_*.pth
