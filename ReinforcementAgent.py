@@ -606,7 +606,7 @@ else:
                     
                     if len(success_window) == 10 and not any(success_window):
                         if steps_done > 15000:
-                            print(">>> NO SUCCESS IN 10 EPS. Resetting Exploration (Steps Done)...")
+                            print("*** NO SUCCESS IN 10 EPS. Resetting Exploration (Steps Done)...")
                             steps_done = 7000
                     
                     # Checkpoints
@@ -626,5 +626,5 @@ else:
                     break
 
         except Exception as e:
-            print(f"Kritischer Fehler in Hauptschleife: {e}")
+            print(f"Fehler: {e}")
             time.sleep(10)
