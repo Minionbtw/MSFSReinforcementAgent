@@ -210,7 +210,7 @@ Während des Trainings gab es leider regelmäßig ca. alle 13 Epochen einen Abbr
 ### Installation
 1. Repository klonen
 ```
-git clone 
+git clone https://github.com/Minionbtw/MSFSReinforcementAgent.git
 ```
 2. Venv erstellen/nutzen
 ```
