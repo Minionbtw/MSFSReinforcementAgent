@@ -1,6 +1,10 @@
 # Deep Reinforcement Learning für autonomen Start im Microsoft Flight Simulator 2020
 
 ## Abstract
+
+### Preview
+[![Reinforcement Learning AI MSFS2020 Preview]()](https://youtu.be/2uYqB9zNhJ0)
+
 ### Einleitung:
 Künstliche Intelligenz (KI) und Reinforcement Learn-
 ing (RL) gewinnen in der Luftfahrt zunehmend an Bedeutung zur
@@ -193,6 +197,8 @@ Während des Trainings gab es leider regelmäßig ca. alle 13 Epochen einen Abbr
 ### Weitere Hinweise
 - Alle anderen Mods außer dem FBW A320 sollten entfernt werden, um Ladezeiten erheblich zu reduzieren. Ansonsten sollte die Zeit, die das Programm wartet erhöht werden.
 - Der Testmodus funktioniert nicht unbedingt zuverlässig und müsste überarbeitet werden.
+- Die Empfohlene Simulatorauflösung beträgt 1920x1200px.
+- Damit die Verbindung zum Simulator korrekt funktioniert, muss vorher in den Einstellungen des Simulators der Entwicklermodus eingeschaltet werden.
 
 ### Zukunft/Ausblick
 - Lernen, wie die KI das Flugzeug bei starkem Seitenwind oder Extremwetter weiterhin unter Kontrolle behält
