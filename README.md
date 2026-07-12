@@ -2,9 +2,6 @@
 
 ## Abstract
 
-### Preview
-[![Reinforcement Learning AI MSFS2020 Preview]()](https://youtu.be/2uYqB9zNhJ0)
-
 ### Einleitung:
 Künstliche Intelligenz (KI) und Reinforcement Learn-
 ing (RL) gewinnen in der Luftfahrt zunehmend an Bedeutung zur
@@ -15,6 +12,9 @@ loten nicht ersetzen, sondern bei realen Flügen den Startvorgang
 simulieren und dessen Handlungen mit den optimalen Aktionen
 des RL-Agenten vergleichen, um potenzielle Fehler frühzeitig zu
 erkennen.
+
+### Preview
+[![Reinforcement Learning AI MSFS2020 Preview](https://img.youtube.com/vi/2uYqB9zNhJ0/0.jpg)](https://youtu.be/2uYqB9zNhJ0)
 
 ### Motivation & Zielsetzung:
 Warum eine KI als Co-Pilot? Die Start-
